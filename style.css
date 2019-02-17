@@ -1,0 +1,37 @@
+body {
+    font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right, #F9B4DB , #89004D); /* Standard syntax */
+}
+
+h1 {
+    /*font: 600 3.5em 'Raleway', sans-serif;*/
+    /*color: rgba(0,0,0,.5);*/
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+    /*font-family: 'Shadows Into Light', cursive;*/
+    font-family: 'Cinzel', serif;
+}
+
+h3 {
+    font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+
+}
+
+h2{
+    font-family: 'Cinzel', serif;
+    color: black;
+}
+
